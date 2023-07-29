@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.font-weight-semibold {
+  font-weight: 600 !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+$family: "Inter var", "Inter", "Roboto", "Helvetica Neue", sans-serif;
+
+@use "vuetify/settings" with (
+  $body-font-family: $family,
+  $field-border-radius: 8px,
+  $button-border-radius: 7px,
+  $switch-inset-track-height: 26px,
+  $switch-inset-track-width: 46px,
+  $menu-elevation: 0
+);

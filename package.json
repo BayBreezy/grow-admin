@@ -1,0 +1,38 @@
+{
+  "name": "grow-admin",
+  "version": "0.0.1",
+  "description": "UI for a product/customer/order management app. I am really not sure lol.",
+  "author": {
+    "name": "Behon Baker",
+    "email": "behon.baker@yahoo.com",
+    "url": "https://behonbaker.com"
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "clean": "rm -rf .output .nuxt dist node_modules package-lock.json yarn.lock && yarn"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^4.1.1",
+    "@kevinmarrec/nuxt-pwa": "^0.17.0",
+    "@mdi/font": "^7.2.96",
+    "@nuxt/devtools": "0.7.1",
+    "@types/node": "^20.4.5",
+    "@types/sass": "^1.45.0",
+    "nuxt": "^3.6.5",
+    "sass": "^1.64.1"
+  },
+  "dependencies": {
+    "@types/yup": "^0.32.0",
+    "@vee-validate/nuxt": "^4.10.8",
+    "@vee-validate/yup": "^4.10.8",
+    "chart.js": "^4.3.2",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vue-chart-3": "^3.1.8",
+    "vuetify": "^3.3.10",
+    "yup": "^1.2.0"
+  }
+}
