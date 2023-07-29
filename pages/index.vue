@@ -2,7 +2,7 @@
   <VContainer fluid class="fill-height ma-md-0 pa-md-0">
     <VRow align="center" justify="center">
       <VSpacer />
-      <VCol class="px-5 px-lg-0" cols="12" lg="4" xl="3">
+      <VCol class="px-5 px-lg-0" cols="12" sm="6" lg="4" xl="3">
         <div class="text-center">
           <h1 class="font-weight-bold">Sign In</h1>
           <p class="text-medium-emphasis mt-1 text-subtitle-1">
@@ -23,12 +23,12 @@
         </form>
       </VCol>
       <VSpacer />
-      <VCol lg="8" xl="8" class="d-none d-lg-flex pa-5 h-screen">
+      <VCol sm="4" lg="8" xl="8" class="pa-5 h-screen" v-if="$vuetify.display.mdAndUp">
         <VImg
           cover
           src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
           alt="Sign In"
-          class="h-full w-full rounded-lg"
+          class="h-screen w-full rounded-lg"
         />
       </VCol>
     </VRow>
