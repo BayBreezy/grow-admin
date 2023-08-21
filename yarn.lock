@@ -1236,14 +1236,14 @@
     hookable "^5.5.3"
     unhead "1.3.4"
 
-"@vee-validate/nuxt@^4.11.1":
-  version "4.11.1"
-  resolved "https://registry.yarnpkg.com/@vee-validate/nuxt/-/nuxt-4.11.1.tgz#ab1b77169cbf1068cce115150c6e30ba9d7c1e95"
-  integrity sha512-J22AP1nUhNmW6KhL5w3K/iZVsJegOGiXS5eJ8pf+mkAlXO+q2F2EsCI1ToepuPOPTvzkXzBYdjhfNgAdyQdGgA==
+"@vee-validate/nuxt@^4.11.2":
+  version "4.11.2"
+  resolved "https://registry.yarnpkg.com/@vee-validate/nuxt/-/nuxt-4.11.2.tgz#d0c2da145c642aff8eda4ad45f34ab14fde8f282"
+  integrity sha512-aE0TuBYJsCcfSv+ajZXTkUcFMNOe5wkhU3esfVD3jiO/UnJJosjGGX6ITcXwBcw9TDyGbL+ntl3CEG8FJCnIcw==
   dependencies:
     "@nuxt/kit" "^3.6.5"
     local-pkg "^0.4.3"
-    vee-validate "^4.11.1"
+    vee-validate "4.11.2"
 
 "@vee-validate/yup@^4.11.2":
   version "4.11.2"
@@ -6068,7 +6068,7 @@ validate-npm-package-name@^5.0.0:
   dependencies:
     builtins "^5.0.0"
 
-vee-validate@4.11.2, vee-validate@^4.11.1:
+vee-validate@4.11.2:
   version "4.11.2"
   resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.11.2.tgz#f6b42776db0545af295f6428171cab12d0cafed9"
   integrity sha512-tIWMCqMzX/GzCaIvlMg3/2ZFP5sVMjrZHIRIFIs9Wa/Y8gg7dnsYRj0Gp5a9X4C3tPfTJRctkFmb0J7/lR+h1w==
