@@ -23,7 +23,7 @@
     "@types/node": "^20.5.0",
     "@types/sass": "^1.45.0",
     "nuxt": "^3.6.5",
-    "sass": "^1.65.1"
+    "sass": "^1.66.1"
   },
   "dependencies": {
     "@types/yup": "^0.32.0",
