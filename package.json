@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@types/yup": "^0.32.0",
-    "@vee-validate/nuxt": "^4.11.2",
+    "@vee-validate/nuxt": "^4.11.3",
     "@vee-validate/yup": "^4.11.2",
     "chart.js": "^4.4.0",
     "vite-plugin-vuetify": "^1.0.2",
