@@ -1557,13 +1557,13 @@
     local-pkg "^0.4.3"
     vee-validate "4.11.3"
 
-"@vee-validate/yup@^4.11.3":
-  version "4.11.3"
-  resolved "https://registry.yarnpkg.com/@vee-validate/yup/-/yup-4.11.3.tgz#c6968388dd0a697335bc735de337c9b0ec4149e7"
-  integrity sha512-bKH3UroGcxyCqvsDX0TiPkR+KZyzwRNdMfPup+rKeB20wQ08X73yLq8/Wi3qgh877y5rdzdhPqNqscTRdm6FXw==
+"@vee-validate/yup@^4.11.6":
+  version "4.11.6"
+  resolved "https://registry.yarnpkg.com/@vee-validate/yup/-/yup-4.11.6.tgz#1752285c7dccb9b7ebf3eeaaa27ad9a747b0355c"
+  integrity sha512-sJ//YQPIZk4N/NdCNmYoSwdq6+HNEvcWC9NqGrvXsFXNKgDQ7ChBwu4A1vdQixMPvimWV/VOuD9PRhIAXvouuQ==
   dependencies:
     type-fest "^4.2.0"
-    vee-validate "4.11.3"
+    vee-validate "4.11.6"
     yup "^1.2.0"
 
 "@vercel/nft@^0.23.1":
@@ -6511,6 +6511,14 @@ vee-validate@4.11.3:
   version "4.11.3"
   resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.11.3.tgz#b95cff30c46bf49102ef49141fd77d36b96edf7f"
   integrity sha512-YhWORdZRE1GL6vXKj3r9f+Y8fJH5JMwMUJ4DFS44+WcTtiNXggyE3pyJPlZBqS9AgYGZ47EOv4UczkLxHqufiw==
+  dependencies:
+    "@vue/devtools-api" "^6.5.0"
+    type-fest "^4.2.0"
+
+vee-validate@4.11.6:
+  version "4.11.6"
+  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.11.6.tgz#4494a6898d25f93369bfbd93895958915c4f5bc3"
+  integrity sha512-DwmNRqYVwX/CrH2ai8RRE1Y0ETmMFkS6X+8JxzC9rmE5cMqBxMiHRiqRABRvtJAbgHFG7LeSzVkPcr/mG5BiSQ==
   dependencies:
     "@vue/devtools-api" "^6.5.0"
     type-fest "^4.2.0"
