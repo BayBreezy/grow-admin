@@ -32,7 +32,7 @@
     "chart.js": "^4.4.0",
     "vite-plugin-vuetify": "^1.0.2",
     "vue-chart-3": "^3.1.8",
-    "vuetify": "^3.3.16",
+    "vuetify": "^3.3.17",
     "yup": "^1.2.0"
   }
 }
