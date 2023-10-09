@@ -18,17 +18,17 @@
   "devDependencies": {
     "@iconify/vue": "^4.1.1",
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
-    "@mdi/font": "^7.2.96",
+    "@mdi/font": "^7.3.67",
     "@nuxt/devtools": "0.8.5",
-    "@types/node": "^20.8.2",
+    "@types/node": "^20.8.3",
     "@types/sass": "^1.45.0",
     "nuxt": "^3.7.4",
-    "sass": "^1.68.0"
+    "sass": "^1.69.0"
   },
   "dependencies": {
     "@types/yup": "^0.32.0",
-    "@vee-validate/nuxt": "^4.11.7",
-    "@vee-validate/yup": "^4.11.7",
+    "@vee-validate/nuxt": "^4.11.8",
+    "@vee-validate/yup": "^4.11.8",
     "chart.js": "^4.4.0",
     "vite-plugin-vuetify": "^1.0.2",
     "vue-chart-3": "^3.1.8",
