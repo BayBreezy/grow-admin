@@ -1,4 +1,5 @@
-import { createVuetify, IconSet, ThemeDefinition, IconProps } from "vuetify";
+import { createVuetify } from "vuetify";
+import type { IconSet, ThemeDefinition, IconProps } from "vuetify";
 import { VBtn } from "vuetify/components/VBtn";
 import { aliases, mdi } from "vuetify/iconsets/mdi";
 import { Icon } from "@iconify/vue";

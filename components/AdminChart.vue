@@ -58,7 +58,7 @@
     salesData.value = salesData.value.map(() => Math.floor(Math.random() * 100));
   };
 
-  let intervalId: NodeJS.Timer;
+  let intervalId: NodeJS.Timeout;
 
   onMounted(() => {
     intervalId = setInterval(shuffleData, 10000);
