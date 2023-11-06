@@ -20,7 +20,7 @@
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@mdi/font": "^7.3.67",
     "@types/node": "^20.8.9",
-    "nuxt": "^3.8.0",
+    "nuxt": "^3.8.1",
     "sass": "^1.69.5"
   },
   "dependencies": {
