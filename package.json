@@ -19,7 +19,7 @@
     "@iconify/vue": "^4.1.1",
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@mdi/font": "^7.3.67",
-    "@types/node": "^20.9.4",
+    "@types/node": "^20.10.0",
     "nuxt": "^3.8.2",
     "sass": "^1.69.5"
   },
