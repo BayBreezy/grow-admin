@@ -19,9 +19,9 @@
     "@iconify/vue": "^4.1.1",
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@mdi/font": "^7.4.47",
-    "@types/node": "^20.11.25",
-    "nuxt": "^3.10.3",
-    "sass": "^1.71.1",
+    "@types/node": "^20.11.29",
+    "nuxt": "^3.11.1",
+    "sass": "^1.72.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
@@ -31,7 +31,7 @@
     "chart.js": "^4.4.2",
     "vite-plugin-vuetify": "^2.0.3",
     "vue-chart-3": "^3.1.8",
-    "vuetify": "^3.5.8",
+    "vuetify": "^3.5.9",
     "yup": "^1.4.0"
   }
 }
