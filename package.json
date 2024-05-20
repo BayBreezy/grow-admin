@@ -13,25 +13,25 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "clean": "rm -rf .output .nuxt dist node_modules package-lock.json yarn.lock && yarn"
+    "clean": "rm -rf .output .nuxt dist node_modules package-lock.json yarn.lock && npm i"
   },
   "devDependencies": {
-    "@iconify/vue": "^4.1.1",
+    "@iconify/vue": "^4.1.2",
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@mdi/font": "^7.4.47",
-    "@types/node": "^20.12.5",
+    "@types/node": "^20.12.12",
     "nuxt": "^3.11.2",
-    "sass": "^1.74.1",
-    "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "sass": "^1.77.2",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.2"
   },
   "dependencies": {
-    "@vee-validate/nuxt": "^4.12.6",
-    "@vee-validate/yup": "^4.12.6",
-    "chart.js": "^4.4.2",
+    "@vee-validate/nuxt": "^4.12.8",
+    "@vee-validate/yup": "^4.12.8",
+    "chart.js": "^4.4.3",
     "vite-plugin-vuetify": "^2.0.3",
     "vue-chart-3": "^3.1.8",
-    "vuetify": "^3.5.14",
+    "vuetify": "^3.6.6",
     "yup": "^1.4.0"
   }
 }
