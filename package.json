@@ -9,29 +9,29 @@
   },
   "scripts": {
     "build": "nuxt build",
+    "clean": "rm -rf .output .nuxt dist node_modules package-lock.json yarn.lock && npm i",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "clean": "rm -rf .output .nuxt dist node_modules package-lock.json yarn.lock && npm i"
-  },
-  "devDependencies": {
-    "@iconify/vue": "^4.1.2",
-    "@kevinmarrec/nuxt-pwa": "^0.17.0",
-    "@mdi/font": "^7.4.47",
-    "@types/node": "^20.14.10",
-    "nuxt": "^3.12.3",
-    "sass": "^1.77.7",
-    "vue": "^3.4.31",
-    "vue-router": "^4.4.0"
+    "preview": "nuxt preview"
   },
   "dependencies": {
     "@vee-validate/nuxt": "^4.13.2",
     "@vee-validate/yup": "^4.13.2",
     "chart.js": "^4.4.3",
-    "vite-plugin-vuetify": "^2.0.3",
+    "vite-plugin-vuetify": "^2.0.4",
     "vue-chart-3": "^3.1.8",
-    "vuetify": "^3.6.12",
+    "vuetify": "^3.7.0",
     "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^4.1.2",
+    "@kevinmarrec/nuxt-pwa": "^0.17.0",
+    "@mdi/font": "^7.4.47",
+    "@types/node": "^22.4.0",
+    "nuxt": "^3.12.4",
+    "sass": "^1.77.8",
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.3"
   }
 }
