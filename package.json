@@ -16,20 +16,20 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
-    "@vee-validate/nuxt": "^4.14.7",
-    "@vee-validate/yup": "^4.14.7",
+    "@vee-validate/nuxt": "^4.15.0",
+    "@vee-validate/yup": "^4.15.0",
     "chart.js": "^4.4.7",
     "vite-plugin-vuetify": "^2.0.4",
     "vue-chart-3": "^3.1.8",
-    "vuetify": "^3.7.5",
-    "yup": "^1.5.0"
+    "vuetify": "^3.7.6",
+    "yup": "^1.6.1"
   },
   "devDependencies": {
     "@iconify/vue": "^4.2.0",
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@mdi/font": "^7.4.47",
     "@types/node": "^22.10.2",
-    "nuxt": "^3.14.1592",
+    "nuxt": "^3.15.0",
     "sass": "^1.83.0",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
