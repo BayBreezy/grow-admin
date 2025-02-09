@@ -19,7 +19,7 @@
     "@vee-validate/nuxt": "^4.15.0",
     "@vee-validate/yup": "^4.15.0",
     "chart.js": "^4.4.7",
-    "vite-plugin-vuetify": "^2.0.4",
+    "vite-plugin-vuetify": "^2.1.0",
     "vue-chart-3": "^3.1.8",
     "vuetify": "^3.7.6",
     "yup": "^1.6.1"
