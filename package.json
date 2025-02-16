@@ -21,7 +21,7 @@
     "chart.js": "^4.4.7",
     "vite-plugin-vuetify": "^2.0.4",
     "vue-chart-3": "^3.1.8",
-    "vuetify": "^3.7.6",
+    "vuetify": "^3.7.12",
     "yup": "^1.6.1"
   },
   "devDependencies": {
